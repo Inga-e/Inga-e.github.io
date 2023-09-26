@@ -4,5 +4,5 @@
 2. Интернет-магазин еды для котиков Cat Energy https://inga-e.github.io/2166645-cat-energy-27/
 3. Соцсеть Кекстаграм
 4. Интернет-магазин энергетических напитков Drink2Go
-5. Сайт фитнес-клуба Fitness 2.0
+5. Сайт фитнес-клуба Fitness 2.0 https://inga-e.github.io/Fitness-2.0/
    
